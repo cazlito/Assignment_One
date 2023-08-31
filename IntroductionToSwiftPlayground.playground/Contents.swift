@@ -23,4 +23,35 @@ var myThirdVariable = myFirstVariable + mySecondVariable
 
 print(myThirdVariable)
 
+//part 9 (on my own)
+
+var firstString = "Clara "
+var secondString = "Isaia "
+var thirdString = "Caz"
+
+var fourthString = firstString + secondString + thirdString
+print(fourthString)
+
+/*How can you change something with your strings to have it print like this, “Hello My Name”?
+ 
+ Just gotta put the spaces in the strings (I think)
+ 
+ */
+
+
+//assignment #3 intro to true or false (booleans expressions)
+
+var appState = false
+print(appState)
+
+//Part 4
+
+var Num1 = 5
+var Num2 = 7
+
+//create a statement to compare the two variables and assign a statement into a new var
+
+var comparison = Num1 > Num2
+
+print(comparison)
 
