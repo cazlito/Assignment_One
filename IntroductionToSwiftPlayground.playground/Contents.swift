@@ -1,5 +1,6 @@
 import UIKit
 
+/*
 var greeting = "Hello, playground"
 
 //strings is a series of characteres in ""
@@ -36,8 +37,8 @@ print(fourthString)
  
  Just gotta put the spaces in the strings (I think)
  
- */
-
+    */
+*/
 
 //assignment #3 intro to true or false (booleans expressions)
 
@@ -54,4 +55,14 @@ var Num2 = 7
 var comparison = Num1 > Num2
 
 print(comparison)
+
+//part 7 omo
+
+var firstVariable = "String 1"
+var secondVariable = "String 2"
+
+var thirdVariable = firstVariable == secondVariable
+print(thirdVariable)
+
+//part 8 omo
 
